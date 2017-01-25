@@ -1,0 +1,5 @@
+equipment ball 80 Natali
+equipment racquet 100 Natali
+clothes shorts 40 Natali
+equipment ball 80 Lucy
+clothes shorts 40 Lucy

@@ -1,0 +1,5 @@
+equipment ball 80 1
+clothes shorts 40 3
+clothes trousers 70 3
+clothes T-shirt 20 2
+equipment racquet 100 7
